@@ -1,0 +1,6 @@
+/* Define a class to make the border-bottom style permanent */
+.permanent-border-b {
+    border-bottom-width: 4px;
+    border-bottom-color: rgb(64, 202, 64);
+  }
+  
